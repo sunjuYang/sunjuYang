@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=blue&height=50&section=header&text=:hatching_chick:백엔드%20개발자%20양선&fontSize=10" />
 
 <!--
 **sunjuYang/sunjuYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
